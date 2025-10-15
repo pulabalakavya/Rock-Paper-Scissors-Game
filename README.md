@@ -11,6 +11,7 @@ This project is a simple **Rock Paper Scissors** game built in **python** , deve
 - Player vs Computer gameplay
 - Random computer choice using 'random' module
 - Displays result(Win/lose/tie)
+
 **Concepts Used:**
 - Conditionals('if-elif-else)
 - Loops
@@ -51,6 +52,8 @@ This project is a simple **Rock Paper Scissors** game built in **python** , deve
   python rps_game_scores.py
   python rps_game_complete.py
 
+---
+
 ## Concepts Used
 - Python fundamentals
 - Functions and looops
@@ -59,10 +62,14 @@ This project is a simple **Rock Paper Scissors** game built in **python** , deve
 - Data structures (lists/dictionaries)  
 - File handling/game history
 
+---
+
 ## Future Improvements
 - Add GUI using Tkinter or Pygame
 - Store match history in an external file
 - Allow multiplayer(user vs user)
+
+---
 
 ## Author
 **Kavya Pulabala**
