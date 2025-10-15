@@ -44,9 +44,9 @@ This project is a simple **Rock Paper Scissors** game built in **python** , deve
 
 ## How to Run the Game
 
-1.Make sure you have **Python 3.x** installed.|
-2.Open your terminal or VS code.|
-3.Run the file you want to play:
+- Make sure you have **Python 3.x** installed.
+- Open your terminal or VS code.|
+- Run the file you want to play:
 
       ```bash
       python rps_game.py
